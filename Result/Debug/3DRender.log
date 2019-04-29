@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Intermediate 目录。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  stdafx.cpp
+  3DRender.cpp
+d:\github\3drender\3drender\3drender\device.h(133): warning C4244: “参数”: 从“const double”转换到“int”，可能丢失数据
+d:\github\3drender\3drender\3drender\device.h(198): warning C4838: 从“int”转换到“double”需要收缩转换
+d:\github\3drender\3drender\3drender\device.h(199): warning C4838: 从“int”转换到“double”需要收缩转换
+d:\github\3drender\3drender\3drender\device.h(200): warning C4838: 从“int”转换到“double”需要收缩转换
+d:\github\3drender\3drender\3drender\device.h(399): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\github\3drender\3drender\3drender\device.h(561): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/PROFILE”规范)
+3DRender.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:REF”规范)
+  3DRender.vcxproj -> D:\GitHub\3DRender\3DRender\3DRender\..\..\Result\Debug\3DRender.exe
